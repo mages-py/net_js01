@@ -1,0 +1,24 @@
+{
+  "name": "net_js01",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/mages-py/net_js01#readme",
+  "bugs": {
+    "url": "https://github.com/mages-py/net_js01/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mages-py/net_js01.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@mages-py/ajs": "^1.0.0"
+  }
+}
